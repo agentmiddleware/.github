@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a vulnerability
+    url: https://github.com/agentmiddleware/agent-middleware/security/advisories/new
+    about: Use GitHub private vulnerability reporting. For a different repo, use that repo Security tab. Do not open a public issue.
